@@ -1,0 +1,8 @@
+[X-GNOME-Metatheme]
+Name=Blackerbird
+Type=X-GNOME-Metatheme
+Comment=Blackerbird theme
+GtkTheme=Blackerbird
+MetacityTheme=Blackerbird
+IconTheme=ElementaryXubuntu-dark
+CursorTheme=Adwaita
