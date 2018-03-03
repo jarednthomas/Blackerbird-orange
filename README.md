@@ -2,4 +2,4 @@
 
 Fork of the Blackbird Theme for gtk-3.20
 
-![Screenshot](screenshot.png)
+![Screenshot](doc/screenshot.png)
